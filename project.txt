@@ -1,5 +1,13 @@
 This is new site
+<<<<<<< HEAD
 data is new 
 today is the day 
 
 happy diwali
+=======
+dtat dfjlajfla
+ajfajlfjlajfljaof
+>>>>>>> 6e2de525dd69cfef5f10e971efbf32f5eedf2cd1
+djfljlaf
+ajflka
+fajfaj;kfaj
